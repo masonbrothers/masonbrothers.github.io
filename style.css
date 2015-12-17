@@ -28,6 +28,13 @@ html, body
 	bottom:0;
 	left:0;
 	position:absolute;
+}
+#play {
+	height:70px;
+	width:auto;
+}
+
+#DNAEditor {
 	
 }
 
